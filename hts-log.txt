@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 07 Oct 2022 08:45:04 at https://nikkhaharman.wixsite.com/resume +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://nikkhaharman.wixsite.com/resume -O1 "C:\Users\Arman\Desktop\My resume\My resume" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/decodeURIComponent(e (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/sitemap.xml (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/feed.xml (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/t (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/ (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/version/ (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/da6c52cb.min.css (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/02b07b80.min.css (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/4da3e2b2.min.css (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/99a6a99f.min.css (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/d078781b.min.css (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/de9c2975.chunk.min.js (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/9b4a379d.chunk.min.js (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/rb_wixui.thunderbolt~bootstrap-classic.f032f998.chunk.min.js (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.f3ca696f.chunk.min.css (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.9b4a379d.chunk.min.js (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/rb_wixui.thunderbolt~bootstrap.8a86afda.chunk.min.css (from https://nikkhaharman.wixsite.com/resume)
+08:45:39	Error: 	"Not Found" (404) at link https://nikkhaharman.wixsite.com/rb_wixui.thunderbolt~bootstrap.de9c2975.chunk.min.js (from https://nikkhaharman.wixsite.com/resume)
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 seconds : 57 links scanned, 38 files written (1376654 bytes overall) [534926 bytes received at 15283 bytes/sec], 1321513 bytes transferred using HTTP compression in 30 files, ratio 29%, 1.6 requests per connection
+(18 errors, 0 warnings, 0 messages)
